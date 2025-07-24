@@ -1,5 +1,4 @@
 
-
 🤖 Tic-Tac-Toe AI with Minimax & Alpha-Beta Pruning
 
 This is a simple command-line implementation of the classic Tic-Tac-Toe game in Python where a human player competes against an unbeatable AI opponent. The AI uses the Minimax algorithm with Alpha-Beta Pruning to make optimal moves.
