@@ -15,7 +15,6 @@ Detects win/loss/draw after each move
 Fully functional 3x3 game board
 
 🧠 How It Works
-
 The AI (playing as 'O') uses the Minimax algorithm to simulate all possible future moves and chooses the optimal one. Alpha-Beta Pruning is applied to reduce the number of unnecessary branches evaluated, making the AI fast and efficient.
 
 
